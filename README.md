@@ -8,6 +8,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- ⚡ Fun fact: I love speedrunning SuperTux
+- ⚡ Fun fact: I love speedrunning SuperTux when I'm bored
 
 ![Anotherlusitano's GitHub stats](https://github-readme-stats.vercel.app/api?username=anotherlusitano&show_icons=true&theme=radical)
