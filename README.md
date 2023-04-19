@@ -10,4 +10,7 @@
 -->
 - ⚡ Fun fact: I love speedrunning SuperTux when I'm bored
 
-![Anotherlusitano's GitHub stats](https://github-readme-stats.vercel.app/api?username=anotherlusitano&show_icons=true&theme=radical)
+<br>
+
+<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=radical&line_height=40"/> </a>
+<a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=radical&line_height=40&hide=css"/> </a>
