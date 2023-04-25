@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Dart, Flutter, Elisp
+- 🌱 I’m currently learning Dart, Flutter, Math
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
