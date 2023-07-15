@@ -2,7 +2,7 @@
 
 - I am the creator of the [pomachat](https://github.com/anotherlusitano/pomachat) :)
   
-- 🌱 I’m currently learning Dart, Flutter, Algorithms, Rust
+- 🌱 I’m currently learning Dart, Flutter, Algorithms, Go
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
