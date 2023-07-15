@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=36&pause=1000&color=F7B415&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-- I am the creator of the [pomachat](https://github.com/anotherlusitano/pomachat) :)
   
 - 🌱 I’m currently learning Dart, Flutter, Algorithms, Go
+- 🖥️ I also created a chat app, called [pomachat](https://github.com/anotherlusitano/pomachat), using Flutter!
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
