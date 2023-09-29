@@ -1,7 +1,7 @@
 ### Welcome traveller 👋
+<!--
 - 🌱 I’m currently learning programming stuff
 - 💻 I also created a chat app, called [pomachat](https://github.com/anotherlusitano/pomachat), using Flutter & Firebase!
-<!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love speedrunning SuperTux when I'm bored
 -->
 
-<br>
 <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=graywhite&line_height=40"/> </a>
 <a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=graywhite&line_height=40&hide=css"/> </a>
 
