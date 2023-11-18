@@ -1,4 +1,3 @@
-### Welcome traveller 👋
 <!--
 - 🌱 I’m currently learning programming stuff
 - 💻 I also created a chat app, called [pomachat](https://github.com/anotherlusitano/pomachat), using Flutter & Firebase!
