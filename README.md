@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I love speedrunning SuperTux when I'm bored
 -->
 
-<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=darcula&line_height=40"/> </a>
-<a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=darcula&line_height=40&hide=css"/> </a>
+<a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=ayu-mirage&line_height=40"/> </a>
+<a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=ayu-mirage&line_height=40&hide=css"/> </a>
 
