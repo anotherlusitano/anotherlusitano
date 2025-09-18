@@ -10,5 +10,5 @@
 -->
 
 <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=ayu-mirage&hide_border=true&line_height=40"/> </a>
-<a href=""> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherlusitano&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&line_height=40&hide=css"/> </a>
+<!-- <a href=""> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherlusitano&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact&line_height=40&hide=css"/> </a> -->
 
