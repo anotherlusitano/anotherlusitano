@@ -15,6 +15,8 @@
 
 <details>
     <summary>Github Status</summary>
-    <a href=""> <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=react&hide_border=true&line_height=40"/> </a>
-    <a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=react&langs_count=6&show_icons=true&hide_border=true&layout=compact&line_height=40&hide=css"/> </a>
+    <div align="left">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anotherlusitano&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anotherlusitano&theme=vision-friendly-dark&langs_count=6&show_icons=true&hide_border=true&layout=compact"/>
+    </div>
 </details>
